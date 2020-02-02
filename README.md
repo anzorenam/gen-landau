@@ -1,4 +1,4 @@
-# gen_landau
+# gen-landau
 
 Very simple example of how to interface python and ROOT to take samples from Landau distribution.
 
